@@ -1,0 +1,1410 @@
+# These are supported funding model platforms
+
+github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
+patreon: # Replace with a single Patreon username
+open_collective: # Replace with a single Open Collective username
+ko_fi: # Replace with a single Ko-fi username
+tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
+community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
+liberapay: # Replace with a single Liberapay username
+issuehunt: # Replace with a single IssueHunt username
+otechie: # Replace with a single Otechie username
+custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+<html lang="en">
+  <head>
+    <!-- basic -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!-- mobile metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1" />
+    <!-- site metas -->
+    <title>sma.kemdikbud.go.id</title>
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <!-- site icons -->
+    <link rel="icon" href="https://sma.kemdikbud.go.id/images/statisdesign/fevicon/logo_SMA_titlewebtutwuri.png" type="image/gif" />
+    <!-- bootstrap css -->
+    
+    
+
+    <!-- Site css -->
+    <link rel="stylesheet" href="https://sma.kemdikbud.go.id/assetditsma/css/style.css" />
+    <!-- colors css -->
+    <link rel="stylesheet" href="https://sma.kemdikbud.go.id/assetditsma/css/colors1.css" />
+    <!-- custom css -->
+    <link rel="stylesheet" href="https://sma.kemdikbud.go.id/assetditsma/css/custom.css" />
+    <!-- wow Animation css -->
+    <link rel="stylesheet" href="https://sma.kemdikbud.go.id/assetditsma/css/animate.css" />
+
+    <!-- responsive css -->
+    <link rel="stylesheet" href="https://sma.kemdikbud.go.id/assetditsma/css/responsive.css" />
+
+    <!-- revolution slider css -->
+    <link rel="stylesheet" type="text/css" href="https://sma.kemdikbud.go.id/assetditsma/revolution/settings.css" />
+    <link rel="stylesheet" type="text/css" href="https://sma.kemdikbud.go.id/assetditsma/revolution/layers.css" />
+    <link rel="stylesheet" type="text/css" href="https://sma.kemdikbud.go.id/assetditsma/revolution/navigation.css"/>
+
+    <!-- start bizpage slide css -->
+    
+    <link href="https://sma.kemdikbud.go.id/assetditsma/bizpage/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    
+    <link href="https://sma.kemdikbud.go.id/assetditsma/bizpage/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="https://sma.kemdikbud.go.id/assetditsma/bizpage/ionicons/css/ionicons.min.css" rel="stylesheet">
+    <link href="https://sma.kemdikbud.go.id/assetditsma/bizpage/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="https://sma.kemdikbud.go.id/assetditsma/bizpage/stylebizpage.css" rel="stylesheet">
+
+    
+    <!-- end bizpage slide css -->
+
+
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GVMJJEEVQR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GVMJJEEVQR');
+</script>
+
+  </head>
+  <body id="default_theme" class="it_service">
+
+    <!-- loader -->
+    <div class="bg_load">
+      <img class="loader_animation" src="https://sma.kemdikbud.go.id/images/statisdesign/loaders/loader_1.png" alt="#" />
+    </div>
+    <!-- end loader -->
+    <!-- header -->
+    <header id="default_header" class="header_style_1">
+
+      <!-- header bottom -->
+      <div class="header_bottom">
+        <div class="container-fluid">
+          <div class="row" id="back-header">
+            <div class="col-xl-1 col-lg-2 col-md-12 col-sm-12 col-xs-12">
+              <!-- logo start -->
+              <div class="logo">
+                <a href="https://sma.kemdikbud.go.id"
+                  ><img src="https://sma.kemdikbud.go.id/images/statisdesign/logos/tut wuri handayani logo header web.png" alt="logo"
+                /></a>
+              </div>
+            </div>
+
+            <div class="col-xl-6 col-lg-5 col-md-12 col-sm-12 col-xs-12">
+              <!-- logo end -->
+              <div class="sma-font-kementerian">
+                Direktorat Sekolah Menengah Atas<br>
+                Direktorat Jenderal Pendidikan Anak Usia Dini,<br> 
+                Pendidikan Dasar dan Pendidikan Menengah<br>
+                Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi
+              </div>              
+            </div>
+
+            <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-xs-12">
+              <div id="multi-item-example_campaign" class="carousel slide carousel-multi-item" data-ride="carousel">
+                <div class="carousel-inner-banner" role="listbox">
+                  <div class="carousel-item active">
+                    <img class="card-img-top" src="https://sma.kemdikbud.go.id/images/statisdesign/banner_campaign/Stop Gratifikasi Banner.JPG" alt="Card image cap">
+                  </div>
+                  <div class="carousel-item">
+                    <img class="card-img-top" src="https://sma.kemdikbud.go.id/images/statisdesign/banner_campaign/web-banner-4.png" alt="Card image cap">
+                  </div>
+                  <div class="carousel-item">
+                    <img class="card-img-top" src="https://sma.kemdikbud.go.id/images/statisdesign/banner_campaign/web-banner-5.png" alt="Card image cap">
+                  </div> 
+                  <div class="carousel-item">
+                    <img class="card-img-top" src="https://sma.kemdikbud.go.id/images/statisdesign/banner_campaign/web-banner-1.jpg" alt="Card image cap">
+                  </div>
+                  <div class="carousel-item">
+                    <img class="card-img-top" src="https://sma.kemdikbud.go.id/images/statisdesign/banner_campaign/web-banner-2.jpg" alt="Card image cap">
+                  </div>
+     
+                </div>
+              </div>
+            </div>
+
+            <div class="col-xl-2 col-lg-2 col-md-12 col-sm-12 col-xs-12">
+              <div class="sma-logo">
+                <img src="https://sma.kemdikbud.go.id/images/statisdesign/logos/logo sma header.png" alt="logo"/>
+              </div>
+            </div>
+
+          </div>
+          
+        </div>
+
+
+
+        <div class="container-fluid-navigasi" id="myHeader">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <!-- menu start -->
+              <div class="menu_side">
+                <div id="navbar_menu">
+                  <ul class="first-ul">
+                    <li>
+                      <a class="active" href="https://sma.kemdikbud.go.id">Beranda</a>
+
+                    </li>
+                    <li>
+                        <a href="#">Profil</a>
+                        <ul>
+                          <li><a href="https://www.kemdikbud.go.id/main/tentang-kemdikbud/daftar-pejabat" target="_blank">Pejabat Kemdikbud</a></li>
+                          <li><a href="https://sma.kemdikbud.go.id/visimisi">Visi Misi</a></li>
+                          <li><a href="https://sma.kemdikbud.go.id/tugasfungsi">Tugas Fungsi</a></li>
+			  <li>
+			    <a href="#">LAKIP</a>
+                            <ul>
+                              <li><a href="https://sma.kemdikbud.go.id/lakipmain">2019</a></li>
+                              <li><a href="https://sma.kemdikbud.go.id/lakipmain2020">2020</a></li>
+                            </ul>
+			  </li>
+
+                          <li>
+                            <a href="#">Struktur Organisasi</a>
+                            <ul>
+                              <li><a href="https://sma.kemdikbud.go.id/structureorganization2020">Direktorat</a></li>
+                            </ul>
+                          </li>
+
+                          <li><a href="https://sma.kemdikbud.go.id/directore_time">Direktur dari Masa ke Masa</a></li>
+                          <li><a href="https://sma.kemdikbud.go.id/renstramain">Rencana Strategis</a></li>
+                          <li><a href="https://sma.kemdikbud.go.id/prokermain">Program Kerja</a></li>
+
+                          <li><a href="https://sma.kemdikbud.go.id/perjanjiankinerja">Perjanjian Kinerja</a></li>
+                          <li><a href="https://sma.kemdikbud.go.id/logosma">Logo Direktorat SMA</a></li>
+
+                        </ul>
+                      </li>
+                    <li>
+                      <a href="#">Layanan</a>
+                      <ul>
+                        <li>
+                          <a href="#">Bidang Tata Kelola</a>
+                          <ul>
+                            <li><a href="http://manajemendata.sma.kemdikbud.go.id:8033/" target="_blank">Manajemen Data SMA</a></li>
+                            <li><a href="https://simdak.dikdasmen.kemdikbud.go.id/" target="_blank">Simdak Dikdasmen</a></li>
+                          </ul>
+                        </li>
+                        <li>
+                          <a href="#">Bidang Penilaian</a>
+                          <ul>
+                            <li><a href="http://gerbangkurikulum.sma.kemdikbud.go.id" target="_blank">Gerbang Kurikulum</a></li>
+                            <li><a href="https://cloud-sma.kemdikbud.go.id:4350/index.php/s/K4HwKj3MsCDtAcX" target="_blank">E-Raport</a></li>                            
+                          </ul>
+                        </li>
+                        <li>
+                          <a href="#">Bidang Sarana Prasarana</a>
+                          <ul>
+                            <li><a href="http://sarpras-sma.kemdikbud.go.id/" target="_blank">Simaspras</a></li>
+                          </ul>
+                        </li>
+
+                        <li>
+                          <a href="#">Perencanaan</a>
+                          <ul>
+                            <li><a href="http://monev.anggaran.kemenkeu.go.id/smart/" target="_blank">e-SMART</a></li>
+                            <li><a href="https://kemendikbud.kl.krisna.systems/renjakl/2020/home" target="_blank">Krisna</a></li>                            
+                            <li><a href="http://eplanning.kemdikbud.go.id/" target="_blank">e-Planning</a></li>
+                            <li><a href="https://simproka.kemdikbud.go.id/" target="_blank">Simproka</a></li>                            
+                            <li><a href="https://satudja.kemenkeu.go.id/" target="_blank">Satu DJA</a></li>
+                          </ul>
+                        </li>
+                        <li>
+                          <a href="#">Kepegawaian</a>
+                          <ul>
+                            <li><a href="https://temandawai-sma.kemdikbud.go.id/login" target="_blank">Teman Dawai</a></li>
+                            <li><a href="http://kehadiran.kemdikbud.go.id/kehadiran/" target="_blank">e-Kehadiran</a></li>
+                            <li><a href="http://skp.sdm.kemdikbud.go.id/skp/site/login.jsp" target="_blank">e-SKP</a></li>                            
+                            <li><a href="http://kepegawaian.dikdasmen.kemdikbud.go.id/simpeg/">e-Simpeg</a></li>
+                            <li><a href="https://elhkpn.kpk.go.id/portal/user/login#" target="_blank">e-LHKPN</a></li>                            
+                            <li><a href="https://siharka.menpan.go.id/" target="_blank">e-LHKASN</a></li>
+                            <li><a href="http://data-sdm.kemdikbud.go.id/" target="_blank">Akses BDR</a></li>
+ 
+                         </ul>
+                        </li>
+
+                        <li>
+                          <a href="https://jdih.kemdikbud.go.id" target="_blank">Peraturan</a>
+                        </li>
+                        <li>
+                          <a href="#">Tatalaksana</a>
+                          <ul>
+                            <li><a href="https://persuratan.kemdikbud.go.id/login" target="_blank">e-Office</a></li>
+                            <li><a href="https://mail.kemdikbud.go.id/" target="_blank">e-Mail Kemdikbud</a></li>                            
+                            <li><a href="https://layanantu-dikdasmen.kemdikbud.go.id/" target="_blank">Layanan Tata Usaha</a></li>
+                          </ul>
+                        </li>
+                        <li>
+                          <a href="#">Keuangan</a>
+                          <ul>
+                            <li><a href="http://molk.kemdikbud.go.id/" target="_blank">MOLK</a></li>
+                            <li><a href="https://djponline.pajak.go.id/account/login" target="_blank">DJP ONLINE</a></li>
+                            <li><a href="https://satudja.kemenkeu.go.id/login?q=0e8b2" target="_blank">DJA Terpadu</a></li>
+                            <li><a href="https://lpse.kemdikbud.go.id/" target="_blank">LPSE Kemdikbud</a></li>
+                            <li><a href="https://rup-pengadaan.kemdikbud.go.id/" target="_blank">SIRENBAJA</a></li>
+			    <li><a href="https://siplah.kemdikbud.go.id/" target="_blank">SIPLAH</a></li>
+                          </ul>
+                        </li>
+                        <li>
+                          <a href="#">Sekolah</a>
+                          <ul>
+                            <li><a href="https://belajar.kemdikbud.go.id/" target="_blank">Rumah Belajar</a></li>              
+		            <li><a href="https://dapo.kemdikbud.go.id/" target="_blank">DAPODIK / BOS / PIP</a></li>
+                            <li><a href="http://gtk.data.kemdikbud.go.id/" target="_blank">NUPTK</a></li>                                                                                                  
+                            <li><a href="http://epak.gtk.kemdikbud.go.id" target="_blank">e-PAK</a></li>
+                            <li><a href="https://perpustakaan.kemdikbud.go.id/" target="_blank">Perpustakaan Dikbud</a></li>   
+			    <li><a href="https://bansm.kemdikbud.go.id/" target="_blank">BAN S/M</a></li>                            
+                            <li><a href="http://referensi.data.kemdikbud.go.id/" target="_blank">Data Referensi</a></li>
+                            <li><a href="http://vervalsp.data.kemdikbud.go.id" target="_blank">e-Verval Satuan Pendidikan</a></li>                            
+			    
+			    
+                            
+			    
+                            
+
+                          </ul>
+
+                        </li>
+                        <li>
+                          <a href="#">Pengawasan</a>
+                          <ul>
+                            <li><a href="https://posko-pengaduan.itjen.kemdikbud.go.id/" target="_blank">Pengaduan Itjen</a></li>
+                            
+                            <li><a href="http://npd.kemdikbud.go.id/" target="_blank">NPD</a></li>
+                            <li><a href="http://rbi.kemdikbud.go.id/" target="_blank">RBI</a></li>
+                            <li><a href="http://ult.kemdikbud.go.id/" target="_blank">ULT</a></li>     
+                            <li><a href="http://wbs.kemdikbud.go.id/" target="_blank">WBS</a></li> 
+                            <li><a href="http://upg.itjen.kemdikbud.go.id/" target="_blank">Pengendalian Gratifikasi Itjen</a></li>
+                          </ul>
+
+                        </li>
+
+
+                      </ul>
+                    </li>
+                    <li>
+                      <a href="#">Dokumentasi/Arsip</a>
+                      <ul>
+                        <li><a href="https://sma.kemdikbud.go.id/juknis/cari_juknis">Petunjuk Teknis</a></li>
+                        <li><a href="https://sma.kemdikbud.go.id/bukupanduanpedoman/cari_panduan_pedoman">Buku Panduan/Pedoman</a></li>
+                        <li><a href="https://sma.kemdikbud.go.id/bahanmateri/cari_bahan_materi">Bahan Materi</a></li>
+			<!-- <li><a href="https://sma.kemdikbud.go.id/sertifikat">Sertifikat</a></li> -->
+                      </ul>
+                    </li>
+                    <li>
+                      <a href="#">Media</a>
+                      <ul>
+                        <li><a href="https://sma.kemdikbud.go.id/beritalist">Berita</a></li>
+                        <li><a href="https://sma.kemdikbud.go.id/video">Video</a></li>
+                        <li><a href="#">Foto</a></li>
+
+			
+                        
+                        <li><a href="https://sma.kemdikbud.go.id/infografis">Infografis</a></li>
+			<li><a href="http://penilaian.sma.kemdikbud.go.id:8063/emodulsma/" target="_blank">E-Modul</a></li>
+                        <!--  
+			<li><a href="#">Survey Pembelajaran Masa Pandemi</a></li>
+                        <li><a href="https://sma.kemdikbud.go.id/indexyoutube">Youtube</a></li>
+                      	-->
+
+			</ul>
+                    </li>
+
+                    <li>
+                      <a href="https://pustaka-sma.kemdikbud.go.id:4353/" target="_blank">Pustaka Digital</a>
+		    </li>
+
+                    <li>
+                      <a href="#">ZI/WBK</a>
+                      <ul>
+                        <li><a href="https://sma.kemdikbud.go.id/ziwbk">ZI-WBK</a></li>
+                        <li><a href="https://sma.kemdikbud.go.id/orientasiziwbk">Orientasi ZI-WBK</a></li>
+                        <li><a href="#">Komponen Pengungkit</a>
+                          <ul>
+                            <li><a href="https://sma.kemdikbud.go.id/ziwbkmanajemenperubahanmain">Manajemen Perubahan</a></li>
+                            <li><a href="https://sma.kemdikbud.go.id/ziwbkpenataantatalaksanamain">Penataan Tatalaksana</a></li>
+                            <li><a href="https://sma.kemdikbud.go.id/ziwbkpeningkatansistemakuntabilitasmain">Penguatan Sistem Akuntabilitas Kerja</a></li>
+                            <li><a href="https://sma.kemdikbud.go.id/ziwbkpenataansdmmain">Penataan Sistem Manajemen SDM</a></li>
+                            <li><a href="https://sma.kemdikbud.go.id/ziwbkpenguatansistempengawasanmain">Penguatan Sistem Pengawasan</a></li>
+                            <li><a href="https://sma.kemdikbud.go.id/ziwbkpeningkatankualitaslayananpublikmain">Peningkatan Kualitas Layanan Publik</a></li>
+                          </ul>
+
+                        </li>
+                        <li><a href="#">Komponen Hasil</a>
+                          
+                          <ul>
+                            <li><a href="https://sma.kemdikbud.go.id/ziwbkkomponenhasilmain">2020</a></li>
+                            <li><a href="https://sma.kemdikbud.go.id/ziwbkkomponenhasil2021main">2021</a></li>
+                          </ul>
+
+                        </li>
+                        <li><a href="https://sma.kemdikbud.go.id/ziwbkcapaianhasilmain">Capaian Hasil</a></li> 
+                      </ul>
+                    </li>
+                    <li>
+                      <a href="#">Link Terkait</a>
+                        <ul>
+                          <li><a href="https://pip.kemdikbud.go.id/index/summary" target = "_blank">PIP</a></li>
+                          <li><a href="https://cerdasberkarakter.kemdikbud.go.id/" target = "_blank">Cerdas Berkarakter</a></li>
+                          
+                          <li><a href="http://sekolah.data.kemdikbud.go.id/" target = "_blank">Data Sekolah</a></li>
+                          <li><a href="https://jendela.kemdikbud.go.id/" target = "_blank">Majalah Jendela</a></li>
+                          <li><a href="http://manajemen.pmp.kemdikbud.go.id/beranda" target = "_blank">Manajemen PMP</a></li>
+                          <li><a href="http://pmp.dikdasmen.kemdikbud.go.id/" target = "_blank">PMP Dikdasmen</a></li>
+                          <li><a href="https://bsnp-indonesia.org/" target = "_blank">BNSP</a></li>
+                          <li><a href="https://pusmenjar.kemdikbud.go.id/" target = "_blank">Pusat Asesmen dan Pembelajaran (UN dan PISA)</a></li>
+                          <li><a href="http://apkapm.data.kemdikbud.go.id/" target = "_blank">PDSP-K</a></li>
+                          <li><a href="https://npd.kemdikbud.go.id/" target = "_blank">Pusat Analisis dan Sinkronisasi Kebijakan </a></li>
+                          <li><a href="https://bse.kemdikbud.go.id/#!/Content/List/Ma" target = "_blank">Buku Sekolah Elektronik</a></li>
+                          <li><a href="http://bansm.kemdikbud.go.id/" target = "_blank">BANSM</a></li>
+                          <li><a href="http://psbsekolah.kemdikbud.go.id/kamaya/" target = "_blank">Katalog Induk Perpustakaan Sekolah</a></li>
+                          <li><a href="https://bersamahadapikorona.kemdikbud.go.id/" target = "_blank">Bersama Hadapi Korona</a></li>
+                          
+                        </ul>
+                    </li>
+		                    
+		    <li>
+                      <a href="#">Media Sosial</a>
+                        <ul>
+                          <li><a href="https://www.instagram.com/direktorat.sma/" target = "_blank">Instagram</a></li>
+                          <li><a href="https://www.youtube.com/channel/UC3SYVD0jyqglP_8jm8E8qKg" target = "_blank">Youtube</a></li>
+                          <li><a href="https://www.facebook.com/DirektoratSMA/?ref=br_rs" target = "_blank">Facebook</a></li>
+                          <li><a href="https://twitter.com/dit_sma?s=08" target = "_blank">Twitter</a></li>
+                          <li><a href="https://www.tiktok.com/@direktorat.sma?lang=id-ID" target = "_blank">TikTok</a></li>
+                        </ul>
+                    </li>
+
+                    <li>
+                      <a href="#">Survey</a>
+                      <ul>
+                        <li><a href="https://forms.gle/MsktsAeDVKHsng6Y6" target = "_blank">Survey Kepuasan Pelanggan</a></li>
+                        <li><a href="https://forms.gle/ZQFot3pV7s8oCfHY7" target = "_blank">Survey Persepsi Korupsi</a></li>
+			<li><a href="https://sma.kemdikbud.go.id/ziwbkhasilsurvey">Hasil Survey</a></li>
+
+                        <li><a href="https://bit.ly/DraftSurveyPodcastCSMA" target = "_blank">Survey Pendengar Podcast Cerita SMA</a></li>
+                        <li><a href="https://bit.ly/DraftSurveyBOSDAK" target = "_blank">Survey BOS dan DAK</a></li>
+                        <li><a href="https://bit.ly/DraftSurveyVirtualEkosistem" target = "_blank">Survey Jaringan Virtual Ekosistem Jarkom SMA</a></li>
+
+                        <!-- <li><a href="https://forms.gle/x9pJrPxUVb5GXCT76" target = "_blank">Survey Praktik Reformasi Birokrasi</a></li>
+                        <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSf1QQOe7fpg8fONht0UIE1JaMo8fnNHNVDBe3p4JeFZBMBCrw/viewform?usp=sf_link" target = "_blank">Survey Integritas Jabatan</a></li>
+                        <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSf_8m80A027y9Oc5uwnakyll02QkxppDGEcVjXjcMTbDAE9ww/viewform?usp=sf_link" target = "_blank">Survey Integritas Organisasi</a></li> -->
+                      </ul>
+                    </li>
+
+                    <li><a href="https://sma.kemdikbud.go.id/faq">FAQ</a></li>
+                  </ul>
+                </div>
+                <div class="search_icon">
+                  <ul>
+                    <li>
+                      <a href="#" data-toggle="modal" data-target="#search_bar"
+                        ><i class="fa fa-search" aria-hidden="true"></i
+                      ></a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <!-- menu end -->
+            </div>
+          </div>
+        </div>
+
+      </div>
+      <!-- header bottom end -->
+      
+      <!-- header top -->
+
+      <!-- end header top -->
+
+    </header>
+    <!-- end header -->
+    
+    
+  <div class="container-fluid">
+    <div class="row">
+
+      <div class="col-md-12" id="runningtext-column">
+        <div class="full">
+            <ul class="list-inline">
+
+                              <marquee onmouseover="this.stop();" onmouseout="this.start();" style="margin-top: 0.2%;">
+                  Klik tautan berikut untuk mengisi survey <a href="https://bit.ly/DraftSurveyPodcastCSMA" target="_blank">Survey Pendengar Podcast Cerita SMA</a>, <a href="https://bit.ly/DraftSurveyBOSDAK" target="_blank">Survey BOS dan DAK</a>, <a href="https://bit.ly/DraftSurveyVirtualEkosistem" target="_blank">Survey Virtual Ekosistem Jarkom SMA</a>
+                </marquee>
+                            
+            </ul>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+<div class="container-fuild">
+    <div class="row">
+
+  <section id="intro">
+    <div class="intro-container">
+      <div id="introCarousel" class="carousel  slide carousel-fade" data-ride="carousel">
+
+        <ol class="carousel-indicators"></ol>
+
+        <div class="carousel-inner" role="listbox">
+
+                    
+          
+            <div class="carousel-item active" style="background-image: url('https://sma.kemdikbud.go.id/images/imagesditsma/image_berita/Tiga Menteri Umumkan Pemenang Lomba 0.jpg');">
+              <div class="carousel-container">
+                <div class="carousel-content">
+
+                  <h2><a href='https://sma.kemdikbud.go.id/berita/1720'>Tiga Menteri Umumkan Pemenang Lomba ‘Rayakan Merdekamu’</a></h2>                  
+                  <a href="#featured-services" class="btn-get-started scrollto">
+                    01-Sep-2021
+                  </a>
+                </div>
+              </div>
+            </div>
+
+          
+                    
+                    
+          <div class="carousel-item" style="background-image: url('https://sma.kemdikbud.go.id/images/imagesditsma/image_berita/FLS2N Tahun 2021 0.jpg');">
+            <div class="carousel-container">
+              <div class="carousel-content">
+                <h2><a href='https://sma.kemdikbud.go.id/berita/1719'>FLS2N Tahun 2021, Dorong Semangat Berprestasi Bidang Seni di Tengah Pandemi</a></h2>
+                <a href="#featured-services" class="btn-get-started scrollto">
+                  01-Sep-2021
+                </a>
+              </div>
+            </div>
+          </div>
+
+          
+                    
+                    
+          <div class="carousel-item" style="background-image: url('https://sma.kemdikbud.go.id/images/imagesditsma/image_berita/Yuk, Mari Meriahkan Hari Anak Nasional 2021 0.jpg');">
+            <div class="carousel-container">
+              <div class="carousel-content">
+                <h2><a href='https://sma.kemdikbud.go.id/berita/1718'>Yuk, Mari Meriahkan Hari Anak Nasional 2021</a></h2>
+                <a href="#featured-services" class="btn-get-started scrollto">
+                  22-Jul-2021
+                </a>
+              </div>
+            </div>
+          </div>
+
+          
+                    
+        </div>
+
+        <a class="carousel-control-prev" href="#introCarousel" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon ion-chevron-left" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+
+        <a class="carousel-control-next" href="#introCarousel" role="button" data-slide="next">
+          <span class="carousel-control-next-icon ion-chevron-right" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+
+      </div>
+    </div>
+  </section>
+
+
+<div class="section padding_layout_1">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          
+          <div id="carouselExampleIndicators1" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+              <li data-target="#carouselExampleIndicators1" data-slide-to="0" class="active"></li>
+              <li data-target="#carouselExampleIndicators1" data-slide-to="1"></li>
+              <li data-target="#carouselExampleIndicators1" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner">
+              
+              
+                              <div class="carousel-item active">
+                              
+                <a href="https://sma.kemdikbud.go.id/infografisdetail/616">
+                  <img
+                    class="img-responsive"
+                    
+                    src="https://sma.kemdikbud.go.id/images/imagesditsma/banner/Direktur_ziwbk.jpeg"
+                    alt=""
+                  />
+                </a>
+
+              </div>
+
+              
+                                <div class="carousel-item">
+                              
+                <a href="https://sma.kemdikbud.go.id/infografisdetail/615">
+                  <img
+                    class="img-responsive"
+                    
+                    src="https://sma.kemdikbud.go.id/images/imagesditsma/banner/Hari_pramuka_2021.jpeg"
+                    alt=""
+                  />
+                </a>
+
+              </div>
+
+              
+                                <div class="carousel-item">
+                              
+                <a href="https://sma.kemdikbud.go.id/infografisdetail/614">
+                  <img
+                    class="img-responsive"
+                    
+                    src="https://sma.kemdikbud.go.id/images/imagesditsma/banner/DirekturSMA Welcome Suhartono.jpg"
+                    alt=""
+                  />
+                </a>
+
+              </div>
+
+              
+                                <div class="carousel-item">
+                              
+                <a href="https://sma.kemdikbud.go.id/infografisdetail/613">
+                  <img
+                    class="img-responsive"
+                    
+                    src="https://sma.kemdikbud.go.id/images/imagesditsma/banner/DirekturSMA_Farewell.png"
+                    alt=""
+                  />
+                </a>
+
+              </div>
+
+              
+            </div>
+            <a class="carousel-control-prev" href="#carouselExampleIndicators1" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleIndicators1" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </a>
+          </div>
+
+        </div>
+
+        <div class="col-md-6">
+
+          <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+              <li data-target="#carouselExampleIndicators2" data-slide-to="0" class="active"></li>
+              <li data-target="#carouselExampleIndicators2" data-slide-to="1"></li>
+              
+            </ol>
+            <div class="carousel-inner">
+              
+              <div class="carousel-item active">
+                <a href="https://pustaka-sma.kemdikbud.go.id:4353/" target="_blank">
+                  <img
+                  class="img-responsive"
+                  src="https://sma.kemdikbud.go.id/images/statisdesign/banner_campaign/pustaka_digital.jpg"
+                  alt=""
+                  />
+                </a>
+              </div>
+              <div class="carousel-item">
+                <a href="http://penilaian.sma.kemdikbud.go.id:8063/emodulsma/" target="_blank">
+                  <img
+                  class="img-responsive"
+                  src="https://sma.kemdikbud.go.id/images/statisdesign/banner_campaign/e_modul.jpg"
+                  alt=""
+                  />
+                </a>
+              </div>
+
+              
+
+            </div>
+            <a class="carousel-control-prev" href="#carouselExampleIndicators2" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleIndicators2" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </a>
+          </div>
+
+        </div>
+
+      </div>
+    </div>
+
+  </div>
+
+    
+
+    <div class="section padding_layout_1">
+      <div class="container">
+        <div class="row">
+          
+          <div class="col-md-8">
+            <div class="full">
+              <div class="main_heading text_align_left">
+                <h2>Berita</h2>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4">
+            <div class="full">
+              <div class="main_heading text_align_right">
+                <h5><a href="https://sma.kemdikbud.go.id/beritalist">Berita Lainnya</a></h5>
+                
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="row">
+
+          
+            <div class="col-xs-6 col-sm-6 col-md-3">
+              <div class="full team_blog_colum">
+                <div class="it_team_img"> <img src="https://sma.kemdikbud.go.id/images/imagesditsma/image_berita/Rayakan Merekamu 0.jpg" alt="#" /> </div>
+                <div class="team_feature_head">
+                  
+                  <h4><a href="https://sma.kemdikbud.go.id/berita/1717">Lomba Video Karya Kreatif Kebinekaan &quot;Rayakan Merdekamu&quot;</a></h4>
+
+                  <div class="post_time">
+                    <p>
+                      <i class="fa fa-clock-o"></i> 
+                      22-Jul-2021
+                    </p>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+          
+          
+            <div class="col-xs-6 col-sm-6 col-md-3">
+              <div class="full team_blog_colum">
+                <div class="it_team_img"> <img src="https://sma.kemdikbud.go.id/images/imagesditsma/image_berita/Panduan Penyelenggaraan Pembelajaran PAUDDIKDASMEN di Masa Pandemi COVID-19.JPG" alt="#" /> </div>
+                <div class="team_feature_head">
+                  
+                  <h4><a href="https://sma.kemdikbud.go.id/berita/1716">Panduan Penyelenggaraan Pembelajaran PAUDDIKDASMEN di Masa Pandemi COVID-19</a></h4>
+
+                  <div class="post_time">
+                    <p>
+                      <i class="fa fa-clock-o"></i> 
+                      13-Jun-2021
+                    </p>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+          
+          
+            <div class="col-xs-6 col-sm-6 col-md-3">
+              <div class="full team_blog_colum">
+                <div class="it_team_img"> <img src="https://sma.kemdikbud.go.id/images/imagesditsma/image_berita/Mendikbudristek Luncurkan Program TIK Kita Harus Belajar (KIHAJAR) 2021 4.jpg" alt="#" /> </div>
+                <div class="team_feature_head">
+                  
+                  <h4><a href="https://sma.kemdikbud.go.id/berita/1715">Mendikbudristek Luncurkan Program TIK Kita Harus Belajar (KIHAJAR) 2021</a></h4>
+
+                  <div class="post_time">
+                    <p>
+                      <i class="fa fa-clock-o"></i> 
+                      21-May-2021
+                    </p>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+          
+          
+            <div class="col-xs-6 col-sm-6 col-md-3">
+              <div class="full team_blog_colum">
+                <div class="it_team_img"> <img src="https://sma.kemdikbud.go.id/images/imagesditsma/image_berita/Lulus Siswa Sekolah Republik Indonesia Tokyo Kelas XII 1.jpg" alt="#" /> </div>
+                <div class="team_feature_head">
+                  
+                  <h4><a href="https://sma.kemdikbud.go.id/berita/1714">Lulus 100%, Siswa Sekolah Republik Indonesia Tokyo Kelas XII</a></h4>
+
+                  <div class="post_time">
+                    <p>
+                      <i class="fa fa-clock-o"></i> 
+                      21-May-2021
+                    </p>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+          
+          
+        </div>
+      </div>
+    </div>
+
+<!-- section -->
+    
+<!-- end section -->
+
+    <div class="section padding_layout_1">
+      <div class="container my-4">
+
+        <hr class="my-4">
+
+        <div class="row">
+          
+          <div class="col-md-8">
+            <div class="full">
+              <div class="main_heading text_align_left">
+                <h2>Video</h2>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4">
+            <div class="full">
+              <div class="main_heading text_align_right">
+                <h5><a href="https://sma.kemdikbud.go.id/video">Video Lainnya</a></h5>
+                
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+        <div id="multi-item-examplevid" class="carousel slide carousel-multi-item" data-ride="carousel">
+
+          <div class="controls-top">
+            <a class="btn-floating" href="#multi-item-examplevid" data-slide="prev"><i class="fa fa-chevron-left"></i></a>
+            <a class="btn-floating" href="#multi-item-examplevid" data-slide="next"><i class="fa fa-chevron-right"></i></a>
+          </div>
+
+          <ol class="carousel-indicators">
+            <li data-target="#multi-item-examplevid" data-slide-to="0" class="active"></li>
+            <li data-target="#multi-item-examplevid" data-slide-to="1"></li>
+            <li data-target="#multi-item-examplevid" data-slide-to="2"></li>
+          </ol>
+
+
+          <div class="carousel-inner" role="listbox">
+
+            <div class="carousel-item active">
+              <div class="row">
+                                      <div class="col-md-4">  
+                      <div class="card mb-2">
+                          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/kV_vjpFbuxA" allowfullscreen></iframe>
+                      </div>
+                    </div>
+                                                        <div class="col-md-4 clearfix d-none d-md-block">
+                      <div class="card mb-2">
+                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/6XHSAVHboeQ" allowfullscreen></iframe>
+                      </div>
+                    </div>                  
+                                      <div class="col-md-4 clearfix d-none d-md-block">
+                      <div class="card mb-2">
+                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/EcIOiRtE0Os" allowfullscreen></iframe>
+                      </div>
+                    </div>                  
+                                </div>
+            </div>
+
+            <div class="carousel-item">
+              <div class="row">
+                                  <div class="col-md-4">
+                    <div class="card mb-2">
+                      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/vtpHp5HDgjs" allowfullscreen></iframe>
+                    </div>
+                  </div>
+                
+                                  <div class="col-md-4 clearfix d-none d-md-block">
+                    <div class="card mb-2">
+                      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VBF9gmVuhiY" allowfullscreen></iframe>
+                    </div>
+                  </div>
+                                  <div class="col-md-4 clearfix d-none d-md-block">
+                    <div class="card mb-2">
+                      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/lsSu8huL3-k" allowfullscreen></iframe>
+                    </div>
+                  </div>
+                              </div>
+            </div>
+
+            <div class="carousel-item">
+              <div class="row">
+                                  <div class="col-md-4">
+                    <div class="card mb-2">
+                      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/paPrjbWluEU" allowfullscreen></iframe>
+                    </div>
+                  </div>                
+                                                  <div class="col-md-4 clearfix d-none d-md-block">
+                    <div class="card mb-2">
+                      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/fsSYhTNZ4is" allowfullscreen></iframe>
+                    </div>
+                  </div>                
+                                  <div class="col-md-4 clearfix d-none d-md-block">
+                    <div class="card mb-2">
+                      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/S8Sri0U6qWo" allowfullscreen></iframe>
+                    </div>
+                  </div>                
+                              </div>
+            </div>
+
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    
+    
+    
+
+    <div class="section padding_layout_1 testmonial_section white_fonts">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="full">
+              <div class="main_heading text_align_left">
+                <h2 style="text-transform: none">Testimoni</h2>
+                <p class="large"></p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-sm-7">
+            <div class="full">
+              <div
+                id="testimonial_slider"
+                class="carousel slide"
+                data-ride="carousel"
+              >
+                <ul class="carousel-indicators">
+                  <li
+                    data-target="#testimonial_slider"
+                    data-slide-to="0"
+                    class="active"
+                  ></li>
+                  <li data-target="#testimonial_slider" data-slide-to="1"></li>
+                  <li data-target="#testimonial_slider" data-slide-to="2"></li>
+                </ul>
+
+                <div class="carousel-inner">
+
+                                    
+                  
+                    <div class="carousel-item active">
+                  
+                    <div class="testimonial-container">
+                      <div class="testimonial-content">
+
+                        <a href="https://sma.kemdikbud.go.id/berita/1708">Lembaran Baru Pembenahan Mutu Pendidikan</a>
+
+                      </div>
+                      <div class="testimonial-photo">
+                        <img
+                          src="https://sma.kemdikbud.go.id/images/imagesditsma/image_berita/Lembaran Baru Pembenahan Mutu Pendidikan.jpg"
+                          class="img-responsive"
+                          alt="#"
+                          width="80"
+                          height="80"
+                        />
+                      </div>
+
+                      <div class="testimonial-meta">
+                        <br>
+                        <h6>15-Apr-2021</h6>
+
+                      </div>
+
+                    </div>
+                  </div>
+
+                                    
+                                      <div class="carousel-item">
+                  
+                    <div class="testimonial-container">
+                      <div class="testimonial-content">
+
+                        <a href="https://sma.kemdikbud.go.id/berita/1707">Asesmen Untuk Pendidikan Kita</a>
+
+                      </div>
+                      <div class="testimonial-photo">
+                        <img
+                          src="https://sma.kemdikbud.go.id/images/imagesditsma/image_berita/Asesmen Untuk Pendidikan Kita.jpg"
+                          class="img-responsive"
+                          alt="#"
+                          width="80"
+                          height="80"
+                        />
+                      </div>
+
+                      <div class="testimonial-meta">
+                        <br>
+                        <h6>15-Apr-2021</h6>
+
+                      </div>
+
+                    </div>
+                  </div>
+
+                                    
+                                      <div class="carousel-item">
+                  
+                    <div class="testimonial-container">
+                      <div class="testimonial-content">
+
+                        <a href="https://sma.kemdikbud.go.id/berita/1706">Guru, Profesi Mulia dan Terhormat</a>
+
+                      </div>
+                      <div class="testimonial-photo">
+                        <img
+                          src="https://sma.kemdikbud.go.id/images/imagesditsma/image_berita/Guru, Profesi Mulia dan Terhormat.jpg"
+                          class="img-responsive"
+                          alt="#"
+                          width="80"
+                          height="80"
+                        />
+                      </div>
+
+                      <div class="testimonial-meta">
+                        <br>
+                        <h6>15-Apr-2021</h6>
+
+                      </div>
+
+                    </div>
+                  </div>
+
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-5">
+            <div class="full"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+         <div class="section padding_layout_1 light_silver gross_layout right_gross_layout_footer">
+            <div class="container">
+              <div class="row">
+                
+
+              </div>
+              <div class="row counter">
+
+                <div class="col-md-12">
+                  <div class="row">
+                    <div
+                      class="col-lg-2 col-md-2 col-sm-2 col-xs-2 margin_bottom_50"
+                    >
+      
+                      <div class="text_align_center">
+                        <i class="fa fa-bar-chart"></i>
+                      </div>
+                      <div class="text_align_center">
+                        <p class="counter-heading text_align_center">
+                          Hari ini
+                        </p>
+                      </div>
+
+                                  <h5 class="counter-count">500</h5>
+                                      
+                    </div>
+                    <div
+                      class="col-lg-2 col-md-2 col-sm-2 col-xs-2 margin_bottom_50"
+                    >
+                      <div class="text_align_center"><i class="fa fa-list-alt"></i></div>
+                      <div class="text_align_center">
+                        <p class="counter-heading text_align_center">
+                          Kemarin 
+                        </p>
+                      </div>
+
+                                  <h5 class="counter-count">555</h5>
+                 
+
+                    </div>
+                    <div
+                      class="col-lg-2 col-md-2 col-sm-2 col-xs-2 margin_bottom_50"
+                    >
+                      <div class="text_align_center">
+                        <i class="fa fa-wpforms"></i>
+                      </div>
+                      <div class="text_align_center">
+                        <p class="counter-heading">Minggu ini</p>
+                      </div>
+
+                                  <h5 class="counter-count">3553</h5>
+                
+                    </div>
+                    <div
+                      class="col-lg-2 col-md-2 col-sm-2 col-xs-2 margin_bottom_50"
+                    >
+                      <div class="text_align_center">
+                        <i class="fa fa-calendar"></i>
+                      </div>
+                      <div class="text_align_center">
+                        <p class="counter-heading">Bulan ini</p>
+                      </div>
+
+                                  <h5 class="counter-count">22024</h5>
+                
+                    </div>
+                    <div
+                      class="col-lg-2 col-md-2 col-sm-2 col-xs-2 margin_bottom_50"
+                    >
+                      <div class="text_align_center">
+                        <i class="fa fa-calendar-check-o"></i>
+                      </div>
+                      <div class="text_align_center">
+                        <p class="counter-heading">Tahun ini</p>
+                      </div>
+
+                                  <h5 class="counter-count">191794</h5>
+                
+                    </div>
+      
+                  </div>
+                </div>
+              </div>
+      
+            </div>
+          </div>
+
+
+    <div class="modal fade" id="search_bar" role="dialog">
+      <div class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">
+              <i class="fa fa-close"></i>
+            </button>
+          </div>
+          <div class="modal-body">
+            <div class="row">
+              <div
+                class="col-lg-8 col-md-8 col-sm-8 offset-lg-2 offset-md-2 offset-sm-2 col-xs-10 col-xs-offset-1"
+              >
+                <div class="navbar-search">
+                  <form
+                    action="#"
+                    method="get"
+                    id="search-global-form"
+                    class="search-global"
+                  >
+                    <input
+                      type="text"
+                      placeholder="Type to search"
+                      autocomplete="off"
+                      name="s"
+                      id="search"
+                      value=""
+                      class="search-global__input"
+                    />
+                    <button class="search-global__btn">
+                      <i class="fa fa-search"></i>
+                    </button>
+                    <div class="search-global__note">
+                      Begin typing your search above and press return to search.
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End Model search bar -->
+
+    </div>
+
+    
+    <div>
+
+      
+
+    </div>
+    <!-- end section -->
+    
+
+  </div>
+
+    <!-- footer -->
+    <footer class="footer_style_2">
+      <div class="container-fuild">
+        
+
+          <div class="footer_blog">
+            <div class="row">
+              <div class="col-md-4" id="footer-map-sma">
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d495.74560116758414!2d106.79765366904563!3d-6.268358638578194!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f199c5981c2b%3A0x8fa6c2c0e3838fa8!2sKementerian+Pendidikan+dan+Kebudayaan+-+Direktorat+Pembinaan+Sekolah+Menengah+Atas!5e0!3m2!1sen!2sid!4v1549261531064" width="100%" height="50%" frameborder="0" style="border:0" allowfullscreen></iframe>      
+              </div>
+
+              <div class="col-md-6">
+                <div class="main-heading left_text">
+                  <h2>Media Sosial Direktorat SMA</h2>
+                </div>
+
+                  <ul class="footer-menu">
+                    <li>
+                      <a href="https://www.facebook.com/DirektoratSMA/?ref=br_rs" target="_blank">
+                        <i class="fa fa-facebook"></i> Direktorat SMA</a>
+                    </li>
+                    <li>
+                      <a href="https://www.instagram.com/direktorat.sma/"  target="_blank">
+                        <i class="fa fa-instagram"></i> direktorat.sma</a>
+                    </li>
+                    <li>
+                      <a href="https://twitter.com/dit_sma?s=08"  target="_blank"><i class="fa fa-twitter"></i> Direktorat SMA</a>
+                    </li>
+                    <li>
+                      <a href="https://www.youtube.com/channel/UC3SYVD0jyqglP_8jm8E8qKg" target="_blank"><i class="fa fa-youtube"></i> Direktorat SMA</a>
+                    </li>
+
+                  </ul>
+  
+                  <div class="main-heading left_text">
+                    <h2>Kontak Kami</h2>
+                  </div>
+                  <p>
+                    Direktorat Sekolah Menengah Atas, Jalan R.S. Fatmawati Cipete, Cilandak - Jakarta Selatan, Kode Pos 12410<br />
+                    <span style="font-size: 18px"
+                      ><a href="#">adminweb.psma@kemdikbud.go.id</a></span
+                    >
+                  </p>
+                  
+                  <!-- <ul class="footer-menu">
+                    <li>
+                      <a href="https://sma.kemdikbud.go.id/login_sma" target="_blank">
+                        <i class="fa fa-random"></i>
+                      </a>
+                    </li>
+                  </ul> -->    
+
+              </div>
+
+              <div class="col-md-2">
+                <div class="sma-logo">
+                  <img src="https://sma.kemdikbud.go.id/images/statisdesign/logos/logo sma header.png" alt="logo"/>
+                </div>
+              </div>
+
+            </div>
+          
+
+          </div>
+
+
+  
+
+          <div class="cprt">
+            <p>Desain oleh IT Direktorat SMA</p>
+          </div>
+      </div>
+
+    </footer>
+    <!-- end footer -->
+    <!-- js section -->
+
+
+    <script src="https://sma.kemdikbud.go.id/assetditsma/js/jquery.min.js"></script>
+    <script src="https://sma.kemdikbud.go.id/assetditsma/js/bootstrap.min.js"></script>
+    <!-- menu js -->
+    <script src="https://sma.kemdikbud.go.id/assetditsma/js/menumaker.js"></script>
+    <!-- wow animation -->
+    <script src="https://sma.kemdikbud.go.id/assetditsma/js/wow.js"></script>
+    <!-- custom js -->
+    <script src="https://sma.kemdikbud.go.id/assetditsma/js/custom.js"></script>
+    <!-- revolution js files -->
+    <script src="https://sma.kemdikbud.go.id/assetditsma/revolution/jquery.themepunch.tools.min.js"></script>
+    <script src="https://sma.kemdikbud.go.id/assetditsma/revolution/jquery.themepunch.revolution.min.js"></script>
+
+    <script src="https://sma.kemdikbud.go.id/assetditsma/revolution/js/revolution.extension.actions.min.js"></script>
+    <script src="https://sma.kemdikbud.go.id/assetditsma/revolution/js/revolution.extension.carousel.min.js"></script>
+    <script src="https://sma.kemdikbud.go.id/assetditsma/revolution/js/revolution.extension.kenburn.min.js"></script>
+    <script src="https://sma.kemdikbud.go.id/assetditsma/revolution/js/revolution.extension.layeranimation.min.js"></script>
+    <script src="https://sma.kemdikbud.go.id/assetditsma/revolution/js/revolution.extension.migration.min.js"></script>
+    <script src="https://sma.kemdikbud.go.id/assetditsma/revolution/js/revolution.extension.navigation.min.js"></script>
+    <script src="https://sma.kemdikbud.go.id/assetditsma/revolution/js/revolution.extension.parallax.min.js"></script>
+    <script src="https://sma.kemdikbud.go.id/assetditsma/revolution/js/revolution.extension.slideanims.min.js"></script>
+    <script src="https://sma.kemdikbud.go.id/assetditsma/revolution/js/revolution.extension.video.min.js"></script>
+    
+
+    
+
+
+    <script src="https://sma.kemdikbud.go.id/assetditsma/bizpage/easing/easing.min.js"></script>
+    <script src="https://sma.kemdikbud.go.id/assetditsma/bizpage/superfish/hoverIntent.js"></script>
+    <script src="https://sma.kemdikbud.go.id/assetditsma/bizpage/superfish/superfish.min.js"></script>
+    <script src="https://sma.kemdikbud.go.id/assetditsma/bizpage/wow/wow.min.js"></script>
+    <script src="https://sma.kemdikbud.go.id/assetditsma/bizpage/owlcarousel/owl.carousel.min.js"></script>
+    <script src="https://sma.kemdikbud.go.id/assetditsma/bizpage/touchSwipe/jquery.touchSwipe.min.js"></script>
+
+    <script src="https://sma.kemdikbud.go.id/assetditsma/bizpage/jquery/jquery.min.js"></script>
+    <script src="https://sma.kemdikbud.go.id/assetditsma/bizpage/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- map js -->
+
+    <script>
+      window.onscroll = function() {myFunction()};
+      
+      var header = document.getElementById("myHeader");
+      var sticky = header.offsetTop;
+      
+      function myFunction() {
+        if (window.pageYOffset > sticky) {
+          header.classList.add("sticky");
+        } else {
+          header.classList.remove("sticky");
+        }
+      }
+      </script>
+
+    <script>
+      // This example adds a marker to indicate the position of Bondi Beach in Sydney,
+      // Australia.
+      function initMap() {
+        var map = new google.maps.Map(document.getElementById("map"), {
+          zoom: 11,
+          center: { lat: 40.645037, lng: -73.880224 },
+          styles: [
+            {
+              elementType: "geometry",
+              stylers: [{ color: "#fefefe" }],
+            },
+            {
+              elementType: "labels.icon",
+              stylers: [{ visibility: "off" }],
+            },
+            {
+              elementType: "labels.text.fill",
+              stylers: [{ color: "#616161" }],
+            },
+            {
+              elementType: "labels.text.stroke",
+              stylers: [{ color: "#f5f5f5" }],
+            },
+            {
+              featureType: "administrative.land_parcel",
+              elementType: "labels.text.fill",
+              stylers: [{ color: "#bdbdbd" }],
+            },
+            {
+              featureType: "poi",
+              elementType: "geometry",
+              stylers: [{ color: "#eeeeee" }],
+            },
+            {
+              featureType: "poi",
+              elementType: "labels.text.fill",
+              stylers: [{ color: "#757575" }],
+            },
+            {
+              featureType: "poi.park",
+              elementType: "geometry",
+              stylers: [{ color: "#e5e5e5" }],
+            },
+            {
+              featureType: "poi.park",
+              elementType: "labels.text.fill",
+              stylers: [{ color: "#9e9e9e" }],
+            },
+            {
+              featureType: "road",
+              elementType: "geometry",
+              stylers: [{ color: "#eee" }],
+            },
+            {
+              featureType: "road.arterial",
+              elementType: "labels.text.fill",
+              stylers: [{ color: "#3d3523" }],
+            },
+            {
+              featureType: "road.highway",
+              elementType: "geometry",
+              stylers: [{ color: "#eee" }],
+            },
+            {
+              featureType: "road.highway",
+              elementType: "labels.text.fill",
+              stylers: [{ color: "#616161" }],
+            },
+            {
+              featureType: "road.local",
+              elementType: "labels.text.fill",
+              stylers: [{ color: "#9e9e9e" }],
+            },
+            {
+              featureType: "transit.line",
+              elementType: "geometry",
+              stylers: [{ color: "#e5e5e5" }],
+            },
+            {
+              featureType: "transit.station",
+              elementType: "geometry",
+              stylers: [{ color: "#000" }],
+            },
+            {
+              featureType: "water",
+              elementType: "geometry",
+              stylers: [{ color: "#c8d7d4" }],
+            },
+            {
+              featureType: "water",
+              elementType: "labels.text.fill",
+              stylers: [{ color: "#b1a481" }],
+            },
+          ],
+        });
+
+        var image = "https://sma.kemdikbud.go.id/images/statisdesign/it_service/location_icon_map_cont.png";
+        var beachMarker = new google.maps.Marker({
+          position: { lat: 40.645037, lng: -73.880224 },
+          map: map,
+          icon: image,
+        });
+      }
+    </script>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        var s,t; s = document.createElement('script'); s.type = 'text/javascript';
+        s.src = 'https://s3-ap-southeast-1.amazonaws.com/qiscus-sdk/public/qismo/qismo-v4.js'; s.async = true;
+        s.onload = s.onreadystatechange = function() { new Qismo('cayt-p0mn5wcxorncurkb', { 
+                        options: { 
+                            channel_id: 5335,
+                        }
+                    }); }
+        t = document.getElementsByTagName('script')[0]; t.parentNode.insertBefore(s, t);
+    });
+</script>
+
+    <!-- map js -->
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-60418b7ac84c2e94"></script>
+
+  </body>
+</html>
